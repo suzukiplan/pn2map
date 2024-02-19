@@ -2,7 +2,7 @@
 
 ## Description
 
-VGS-Zero のパーリンノイズを使って地形データを [Tiled Map Editor](https://www.mapeditor.org/) で使えるマップデータ形式（tmx）で出力するツールです。
+VGS-Zero のパーリンノイズの実装を使って地形データを [Tiled Map Editor](https://www.mapeditor.org/) で使えるマップデータ形式（tmx）で出力するツールです。
 
 パーリンノイズは HAGe の機能として使うこともできますが、パーリンノイズで生成したマップデータを加工して利用したい時には本ツールを使うと便利かもしれません。
 
