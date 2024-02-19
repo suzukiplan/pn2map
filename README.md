@@ -36,6 +36,12 @@ pn2tmx [-s シード値] ※省略時: 0
 make test
 ```
 
+`make test` を実行すると次のコマンドラインを実行して `map.tmx` を生成して Tiled Map Editor で開きます。
+
+```bash
+./pn2tmx -d 16 -o 5 -s 555 -w 256 -h 256 -x 48 -y 48 > map.tmx
+```
+
 ![preview.png](./preview.png)
 
 ## Licnese
